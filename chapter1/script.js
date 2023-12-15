@@ -12,3 +12,11 @@ const likes = 30
 let result = `The blog called ${title} by ${author} has ${likes} likes`
 console.log(result);
 disp.innerHTML = result;
+
+
+const ninjas = ['Shaun', 'Ryu', 'Chun-li'];
+console.log(ninjas);
+let ninja = ninjas.join(',');
+console.log(ninja);
+let nin = ninjas.join('-');
+console.log(nin);
