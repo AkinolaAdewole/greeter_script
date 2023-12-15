@@ -13,3 +13,7 @@ console.log(name === 'Shaun');
 // In JS, lowercase letters are greater than uppercase letters
 console.log(name < 'shaun');
 console.log(name > 'shaun');
+
+
+let score = String(50);
+console.log(score, typeof score);
