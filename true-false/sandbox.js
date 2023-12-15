@@ -16,4 +16,6 @@ console.log(name > 'shaun');
 
 
 let score = String(50);
+let scor = Boolean(100);
 console.log(score, typeof score);
+console.log(scor, typeof scor);
