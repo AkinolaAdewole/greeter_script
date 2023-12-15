@@ -20,3 +20,6 @@ let ninja = ninjas.join(',');
 console.log(ninja);
 let nin = ninjas.join('-');
 console.log(nin);
+
+let ninjaz = ninjas.push('Jet-Li');
+console.log(ninjaz);
