@@ -1,0 +1,15 @@
+Objects are Powerful!
+Objects allow us to wrap up pieces of related data and functionality into one single container.
+
+Arrays are a special type of object in JavaScript with methods including length() , 
+reverse() , sort() , push(), and pop() -- but objects are much more than arrays. JavaScript includes a lot of other built-in objects.
+
+In this lesson, we'll learn all about how we can create our own objects that contain both data and 
+functions that we can use to manipulate or operate on that data. By the end of this lesson you will be able to:
+
+Create a JavaScript object
+Use dot notation and bracket notation to access object elements
+Use typeof to access the type of a variable
+Add and access methods in JavaScript objects
+Use JavaScript naming conventions for property names
+Let's get started!
