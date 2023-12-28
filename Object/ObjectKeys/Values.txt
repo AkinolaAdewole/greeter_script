@@ -1,0 +1,25 @@
+Object.keys() and Object.values()
+At its core, an object is just a collection of key/value pairs. What if we want to extract only the keys from an object? Say we 
+have this object representing a real-life dictionary:
+
+const dictionary = {
+  car: 'automobile',
+  apple: 'healthy snack',
+  cat: 'cute furry animal',
+  dog: 'best friend'
+};
+Having a collection of just the words (i.e., the dictionary object's keys) may be particularly useful. While we could use a for...in loop 
+to iterate through an object and build our own list of keys, it can get a bit messy and verbose. Thankfully, JavaScript provides 
+an abstraction just for this!
+
+When Object.keys() is given an object, it extracts just the keys of that object, then returns those keys in an array:
+
+Object.keys(dictionary);
+
+// ['car', 'apple', 'cat', 'dog']
+So Object.keys() gives returns an array of the provided object's property names. Likewise, if we want a list of the values of an object, 
+we can use Object.values():
+
+Object.values(dictionary);
+
+// ['automobile', 'healthy snack', 'cute furry animal', 'best friend']
