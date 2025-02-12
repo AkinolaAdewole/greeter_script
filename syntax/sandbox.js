@@ -1,4 +1,4 @@
-let age = 29;
+let myAge = 29;
 let year = 2024;
 
 console.log(age, year);
