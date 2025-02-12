@@ -14,6 +14,13 @@ console.log(firstname, lastname);
 
 let fullname = firstname + " " + lastname;
 console.log(fullname);
+console.log(fullname.length);
+
+//string methods
+console.log(fullname.toUpperCase());
+console.log(fullname.toLowerCase());
+
+
 
 
 
