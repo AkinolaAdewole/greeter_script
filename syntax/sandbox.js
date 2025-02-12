@@ -1,4 +1,4 @@
-// let myAge = 29;
+let myName = 'Brandon';
 // let year = 2024;
 
 // console.log(age, year);
@@ -19,6 +19,8 @@ console.log(fullname.length);
 //string methods
 console.log(fullname.toUpperCase());
 console.log(fullname.toLowerCase());
+
+let result = myName.slice(0, 2)
 
 
 
