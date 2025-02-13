@@ -26,6 +26,10 @@ let result = myName.slice(0, 2)
 
 
 
-const  hundred =()=>{};
+const  hundred =()=>{
+    alert('hundred')
+};
 const thousand =()=>{};
 const million =()=>{};
+const billion =()=>{};
+const trillion =()=>{};
