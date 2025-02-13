@@ -28,3 +28,4 @@ let result = myName.slice(0, 2)
 
 const  hundred =()=>{};
 const thousand =()=>{};
+const million =()=>{};
