@@ -3,4 +3,9 @@
 }
 .div2{};
 
-#center1{}
+#center1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+}
