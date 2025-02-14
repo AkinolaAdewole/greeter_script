@@ -6,8 +6,8 @@
 #center1 {
     display: flex;
     text-align: center;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
     margin-top: 200px;
     height: 100vh; /* Full viewport height */
 }
