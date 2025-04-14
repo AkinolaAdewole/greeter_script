@@ -1,5 +1,5 @@
 const greet =()=>{
-    // console.log("Greet me very well");
+    console.log("Greet me very well");
 
     alert("Greet me very well");
 };
